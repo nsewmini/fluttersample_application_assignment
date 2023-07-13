@@ -7,11 +7,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("navodya"),
+          title: const Text("navodya sewmini"),
           elevation: 4,
         ),
         body: const Center(
-          child: Text("Hi there "),
+          child: Text("Hello Everyone! this is first flutter app "),
         ));
   }
 }
